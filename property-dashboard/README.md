@@ -69,7 +69,7 @@ property-dashboard/
 
  Clone the repository:
 
-git clone <>
+git clone <https://github.com/FaizFerozMehmood/Property-Rental-Dashboard>
 Navigate to the project folder:
 
 cd property-dashboard
