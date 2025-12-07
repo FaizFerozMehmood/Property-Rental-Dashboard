@@ -1,0 +1,68 @@
+
+[
+  {
+    "id": "p1",
+    "title": "Sunny 2BR Apartment",
+    "city": "Islamabad",
+    "type": "Apartment",
+    "price": 35000,
+    "rating": 4.5,
+    "image": "/images/sunny.jpg",
+    "beds": 2,
+    "baths": 1,
+    "area": "950 sqft",
+    "description": "Bright apartment close to metro. Modern kitchen and balcony."
+  },
+  {
+    "id": "p2",
+    "title": "Luxury Villa with Pool",
+    "city": "Lahore",
+    "type": "Villa",
+    "price": 180000,
+    "rating": 4.9,
+    "image": "/images/villaPOOL.jpg",
+    "beds": 5,
+    "baths": 4,
+    "area": "4500 sqft",
+    "description": "Premium villa in a gated community with private pool."
+  },
+  {
+    "id": "p3",
+    "title": "Cozy Studio",
+    "city": "Karachi",
+    "type": "Studio",
+    "price": 18000,
+    "rating": 4.0,
+    "image": "/images/studio.jpg",
+    "beds": 0,
+    "baths": 1,
+    "area": "320 sqft",
+    "description": "Compact studio ideal for professionals."
+  },
+  {
+    "id": "p4",
+    "title": "Family House near Park",
+    "city": "Islamabad",
+    "type": "House",
+    "price": 65000,
+    "rating": 4.2,
+    "image": "/images/faimly.jpg",
+    "beds": 3,
+    "baths": 2,
+    "area": "1600 sqft",
+    "description": "Quiet neighborhood, walking distance to park."
+  },
+  {
+    "id": "p5",
+    "title": "Modern Loft",
+    "city": "Lahore",
+    "type": "Loft",
+    "price": 52000,
+    "rating": 4.6,
+    "image": "/images/Loft.jpg",
+    "beds": 1,
+    "baths": 1,
+    "area": "780 sqft",
+    "description": "Stylish open floor loft near cafes."
+  }
+]
