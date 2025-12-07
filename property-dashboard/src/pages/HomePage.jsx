@@ -12,10 +12,10 @@ export default function HomePage(){
   const [search, setSearch] = useState("");
   const [city, setCity] = useState("All");
   const [type, setType] = useState("All");
-  const [priceRange, setPriceRange] = useState([0, 300000]); // [min, max]
-  const [view, setView] = useState("grid"); // grid or list
-  const [minMax, setMinMax] = useState([0, 300000]); // actual min/max from data
-  const [selected, setSelected] = useState(null); // property for modal
+  const [priceRange, setPriceRange] = useState([0, 300000]); 
+  const [view, setView] = useState("grid"); 
+  const [minMax, setMinMax] = useState([0, 300000]); 
+  const [selected, setSelected] = useState(null); 
   const [ratingFilter, setRatingFilter] = useState(0);
   const [favorites, setFavorites] = useState(() => JSON.parse(localStorage.getItem("favorites")||"[]"));
 
@@ -116,7 +116,6 @@ export default function HomePage(){
       className="w-full h-full object-cover opacity-90"
     />
 
-    {/* Overlay message */}
     {/* <div className="absolute bottom-3 right-3 bg-white/90 dark:bg-gray-800/90 text-xs px-2 py-1 rounded">
       Static map preview
     </div> */}

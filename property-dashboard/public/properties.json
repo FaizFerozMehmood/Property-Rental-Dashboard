@@ -1,4 +1,3 @@
-
 [
   {
     "id": "p1",
@@ -64,5 +63,70 @@
     "baths": 1,
     "area": "780 sqft",
     "description": "Stylish open floor loft near cafes."
+  },
+  {
+    "id": "p6",
+    "title": "Beachside Apartment",
+    "city": "Karachi",
+    "type": "Apartment",
+    "price": 45000,
+    "rating": 4.3,
+    "image": "/images/Beachside.jpg",
+    "beds": 2,
+    "baths": 2,
+    "area": "1100 sqft",
+    "description": "Sea view apartment with balcony and modern amenities."
+  },
+  {
+    "id": "p7",
+    "title": "Penthouse Suite",
+    "city": "Islamabad",
+    "type": "Penthouse",
+    "price": 220000,
+    "rating": 5.0,
+    "image": "/images/Penthouse .jpg",
+    "beds": 4,
+    "baths": 3,
+    "area": "5000 sqft",
+    "description": "Luxury penthouse with rooftop terrace and city views."
+  },
+  {
+    "id": "p8",
+    "title": "Suburban House",
+    "city": "Lahore",
+    "type": "House",
+    "price": 72000,
+    "rating": 4.1,
+    "image": "/images/Suburban.jpg",
+    "beds": 3,
+    "baths": 2,
+    "area": "1800 sqft",
+    "description": "Family-friendly area, close to schools and parks."
+  },
+  {
+    "id": "p9",
+    "title": "Compact 1BR Apartment",
+    "city": "Karachi",
+    "type": "Apartment",
+    "price": 25000,
+    "rating": 4.0,
+    "image": "/images/Modern.jpg",
+    "beds": 1,
+    "baths": 1,
+    "area": "600 sqft",
+    "description": "Affordable 1-bedroom apartment in a convenient location."
+  },
+  {
+    "id": "p10",
+    "title": "Modern Duplex",
+    "city": "Islamabad",
+    "type": "Duplex",
+    "price": 95000,
+    "rating": 4.7,
+    "image": "/images/Modern.jpg",
+    "beds": 3,
+    "baths": 3,
+    "area": "2200 sqft",
+    "description": "Spacious duplex with modern interior and parking space."
   }
 ]
